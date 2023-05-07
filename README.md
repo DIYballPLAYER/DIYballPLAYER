@@ -9,8 +9,8 @@
   </a>
   <a href="https://github.com/DIYballPLAYER">
     <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge"/>
-  </a><br style="margin-top: 5px">
-  <img src="https://komarev.com/ghpvc/?username=DIYballPLAYER&style=flat-square&color=yellow" alt=""/><i>🥲<i>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=DIYballPLAYER&style=flat-square&color=yellow" alt="🥲"/>
 </div>
 
 ### :card_file_box: Who am I?
