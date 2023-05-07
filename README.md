@@ -10,7 +10,7 @@
   <a href="https://github.com/DIYballPLAYER">
     <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=DIYballPLAYER&style=flat-square&color=yellow" alt=""/><i>style="padding-bottom: 2px"🥲<i>
+  <img src="https://komarev.com/ghpvc/?username=DIYballPLAYER&style=flat-square&color=yellow" alt=""/><i style="padding-bottom: 2px">🥲<i>
 </div>
 
 ### :card_file_box: Who am I?
