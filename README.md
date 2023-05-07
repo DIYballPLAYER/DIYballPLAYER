@@ -19,7 +19,7 @@
 - :zap: Big One Piece fan
 - :zap: Basketball one🫶
 ---
-### :page_facing_up: Languages :
+### :page_facing_up: Languages and tools :
 <div>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
