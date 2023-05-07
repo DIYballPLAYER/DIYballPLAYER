@@ -17,6 +17,7 @@
 - :zap: Junior Backend Developer
 - :zap: Clean Coder
 - :zap: Big One Piece fan
+- :zap: Basketball one🫶
 ---
 ### :page_facing_up: Languages :
 <div>
@@ -35,6 +36,6 @@
 ---
 ### :bar_chart: My statistics :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WrldEngine&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DIYballPLAYER&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WrldEngine&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIYballPLAYER&layout=compact&theme=vision-friendly-dark)
